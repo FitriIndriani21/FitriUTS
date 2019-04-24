@@ -37,7 +37,7 @@
         <li ><a class="active" href="logout.php" title="Logout">Log Out</a></li>
       </ul>
     </nav>
-    <img class="sec1" src="media/Foto4.jpg">
+    <img class="sec1" src="media/My.jpg">
     <br><br>
   </div>
 
